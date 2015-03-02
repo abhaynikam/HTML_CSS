@@ -3,10 +3,11 @@
 	padding-left: 10px;
 }
 
-.first{
+#first{
+	overflow: hidden;
 }
 
-.first .red_square{
+#first #red_square{
 	background-color: red;
 	height: 45%;
 	width: 25%;
@@ -15,7 +16,7 @@
 	 
 }
 
-.first .blue_square{
+#first #blue_square{
 	background-color: blue;
 	height: 45%;
 	width: 25%;
@@ -23,15 +24,11 @@
 	margin: 10px;
 }
 
-.orange_rec{
+#orange_rec{
 	background-color: orange;
 	height: 200px;
 	width: 90%;
 	float: left;
 	margin-top: 50px;
 	margin-left: 50px;
-}
-
-.clear{
-	clear: both;
 }

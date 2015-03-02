@@ -5,7 +5,7 @@
 </head>
 <body>
 	<div id="wrapper">
-		<div class="header">
+		<div id="header">
 			<h1>This is header should not scroll</h1>	
 		</div>
 		<div id="content">
@@ -27,7 +27,6 @@
 After the massacre and subsequent violence, Gandhi began to focus on winning complete self-government and control of all Indian government institutions, maturing soon into Swaraj or complete individual, spiritual, political independence.[72] During this period, Gandhi claimed to be a "highly orthodox Hindu" and in January 1921 during a speech at a temple in Vadtal, he spoke of the relevance of noncooperation to Hindu Dharma, "At this holy place, I declare, if you want to protect your 'Hindu Dharma', non-cooperation is first as well as the last lesson you must learn up."[73]</p>
 			<p>In December 1921, Gandhi was invested with executive authority on behalf of the Indian National Congress. Under his leadership, the Congress was reorganised with a new constitution, with the goal of Swaraj. Membership in the party was opened to anyone prepared to pay a token fee. A hierarchy of committees was set up to improve discipline, transforming the party from an elite organisation to one of mass national appeal. Gandhi expanded his nonviolence platform to include the swadeshi policy—the boycott of foreign-made goods, especially British goods. Linked to this was his advocacy that khadi (homespun cloth) be worn by all Indians instead of British-made textiles. Gandhi exhorted Indian men and women, rich or poor, to spend time each day spinning khadi in support of the independence movement.[74]</p>
 		</div>
-		<div class="clear"></div>
 	</div>
 	
 </body>

@@ -3,21 +3,17 @@
 	padding-left: 10px;
 }
 
-.header{
+#header{
 	background-color: red;
 	text-align: center;
 	position: fixed;
 	font-size: 10px;
-	width: 100%;
-	z-index: 99999;
+	width: 98%;
 }
 
 #content{
-	margin-top: 50px;
-	top: 100px;
-	padding-top: 100px;
-	
-}
-.clear{
-	both:clear;
+	margin-top: 10px;
+	position: absolute;
+	top: 50px;
+	overflow-y: scroll;	
 }
